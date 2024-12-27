@@ -5,7 +5,8 @@ Software Engineer
 Building software with passion and purpose.
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jabedhosen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/johndoe)
+[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=Google-Chrome&logoColor=white)](jabed.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jabedhosenn@gmail.com)
 
 ## 💻 Tech Stack
@@ -17,3 +18,4 @@ Building software with passion and purpose.
 ![Django](https://img.shields.io/badge/Django-eab308?style=for-the-badge&logo=Django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-22c55e?style=for-the-badge&logo=Laravel&logoColor=white)
 ![SQA](https://img.shields.io/badge/SQA-eab308?style=for-the-badge&logo=SQA&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-eab308?style=for-the-badge&logo=MySQL&logoColor=white)
