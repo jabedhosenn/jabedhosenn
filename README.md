@@ -14,7 +14,6 @@
 - 🔭 I’m currently working on full stack web apps using **Django** and **REST APIs**
 - 👨‍💻 Always learning and building scalable systems from the ground up
 - 📫 Reach me at: [jabedhosenn@gmail.com](mailto:jabedhosenn@gmail.com)
-- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801764333296)
 - 📍 Based in Dhaka, Bangladesh
 
 ---
