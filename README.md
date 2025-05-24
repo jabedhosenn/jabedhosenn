@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jabed Hosen</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">Software Developer | Backend Developer | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://github.com/jabedhosenn">
@@ -50,9 +50,6 @@
   <a href="https://github.com/jabedhosenn/library-management-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jabedhosenn&repo=library-management-system&theme=react" />
   </a>
-  <a href="https://github.com/jabedhosenn/vaccination-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jabedhosenn&repo=vaccination-management&theme=react" />
-  </a>
 </p>
 
 ---
@@ -79,7 +76,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/jabedhosen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -93,4 +90,4 @@
 
 ---
 
-> “Make it work, make it right, make it fast.” – Kent Beck
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
