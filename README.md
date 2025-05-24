@@ -50,7 +50,11 @@
   <a href="https://github.com/jabedhosenn/library-management-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jabedhosenn&repo=library-management-system&theme=react" />
   </a>
+  <a href="https://github.com/jabedhosenn/bank-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jabedhosenn&repo=bank-management-system&theme=react" />
+  </a>
 </p>
+
 
 ---
 
@@ -76,7 +80,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align=left">
   <a href="https://linkedin.com/in/jabedhosen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
