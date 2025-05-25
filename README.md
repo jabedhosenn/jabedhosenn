@@ -22,6 +22,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -41,6 +42,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-A1B1C1?style=flat&logo=githubactions&logoColor=black)
 
 ---
 
