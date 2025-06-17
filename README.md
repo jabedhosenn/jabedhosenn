@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jabed Hosen</h1>
-<h3 align="center">Software Developer | Backend Developer | Lifelong Learner</h3>
+<h3 align="center">Software Developer | Full Stack Web Developer | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://github.com/jabedhosenn">
@@ -7,17 +7,18 @@
   </a>
 </p>
 
-<hr />
+---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on full stack web apps using **Django** and **REST APIs**
-- 👨‍💻 Always learning and building scalable systems from the ground up
+- 🔭 Currently building full-stack apps using **Laravel**, **Django**, and **Vue.js**
+- 👨‍💻 Focused on clean code, system design, and performance optimization
+- 🌱 Lifelong learner of scalable architectures and modern backend practices
 - 📫 Reach me at: [jabedhosenn@gmail.com](mailto:jabedhosenn@gmail.com)
-- 📱 WhatsApp: [Chat on WhatsApp](https://wa.me/8801764333296)
-- 📍 Based in Dhaka, Bangladesh
+- 📱 WhatsApp: [Chat with me](https://wa.me/8801764333296)
+- 📍 Based in Dhanmondi, Dhaka, Bangladesh
 
-<hr />
+---
 
 ## 🛠️ Tech Stack
 
@@ -28,13 +29,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frameworks & Libraries:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **Tools & Platforms:**  
@@ -42,9 +45,18 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-A1B1C1?style=flat&logo=githubactions&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-<hr />
+---
+
+## 💼 What I Build
+
+- 🔐 RESTful APIs with secure authentication and role-based access (Laravel Sanctum, Passport)
+- 📊 Admin dashboards, CMS, and CRM platforms
+- 📅 Booking systems & campaign management tools
+- 📱 Responsive, mobile-first interfaces with Vue.js & Tailwind CSS
+
+---
 
 ## 📌 Featured Projects
 
@@ -57,7 +69,7 @@
   </a>
 </p>
 
-<hr />
+---
 
 ## 📊 GitHub Stats
 
@@ -69,7 +81,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabedhosenn&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<hr />
+---
 
 ## 🔥 GitHub Streak
 
@@ -77,7 +89,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jabedhosenn&theme=radical" alt="GitHub Streak" />
 </p>
 
-<hr />
+---
 
 ## 🌐 Connect With Me
 
@@ -93,6 +105,6 @@
   </a>
 </p>
 
-<hr />
+---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
