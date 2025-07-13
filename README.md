@@ -14,8 +14,8 @@
 - 🔭 Currently building full-stack apps using **Laravel**, **Django**, and **Vue.js**
 - 👨‍💻 Focused on clean code, system design, and performance optimization
 - 🌱 Lifelong learner of scalable architectures and modern backend practices
-- 📫 Reach me at: [jabedhosenn@gmail.com](mailto:jabedhosenn@gmail.com)
-- 📱 WhatsApp: [Chat with me](https://wa.me/8801764333296)
+- 📫 Email: [jabedhosenn@gmail.com](mailto:jabedhosenn@gmail.com)
+- 📱 WhatsApp: [Chat with me](https://wa.me/8801884597899)
 - 📍 Based in Dhanmondi, Dhaka, Bangladesh
 
 ---
@@ -46,6 +46,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ---
 
@@ -100,6 +102,9 @@
   <a href="mailto:jabedhosenn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://wa.me/8801884597899">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="https://github.com/jabedhosenn">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -108,3 +113,5 @@
 ---
 
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+---
