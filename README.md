@@ -64,11 +64,8 @@
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/jabedhosenn/library-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jabedhosenn&repo=library-management-system&theme=react" alt="Library Management System" />
-  </a>
-  <a href="https://github.com/jabedhosenn/bank-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jabedhosenn&repo=bank-management-system&theme=react" alt="Bank Management System" />
+  <a href="(https://github.com/jabedhosenn/E-Healthcare)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jabedhosenn&repo=E-Healthcare&theme=react" alt="E-Healthcare" />
   </a>
 </p>
 
