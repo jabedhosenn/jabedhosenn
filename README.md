@@ -66,11 +66,6 @@
 <p align="center">
   <a href="(https://github.com/jabedhosenn/E-Healthcare)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jabedhosenn&repo=E-Healthcare&theme=react" alt="E-Healthcare" />
-     <p>
-        – Developed a Laravel-based full-stack web application featuring admin and user dashboards.
-        – Implemented appointment management and doctor CRUD functionalities.
-        – Built responsive layouts with Bootstrap and Tailwind CSS for enhanced user experience.
-    </p>
   </a>
 </p>
 
